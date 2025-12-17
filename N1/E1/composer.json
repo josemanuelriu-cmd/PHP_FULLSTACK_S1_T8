@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "classmap": ["N1/E1/src/"]
+    },
+    "autoload-dev": {
+        "classmap": ["N1/E1/tests/"]
+    },
+    "authors": [
+        {
+            "name": "josemanuelriu-cmd",
+            "email": "josemanuelriu@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
