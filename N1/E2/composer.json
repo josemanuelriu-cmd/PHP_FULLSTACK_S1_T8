@@ -1,9 +1,9 @@
 {
     "autoload": {
-        "classmap": ["N1/E1/src/"]
+        "classmap": ["N1/E2/src/"]
     },
     "autoload-dev": {
-        "classmap": ["N1/E1/tests/"]
+        "classmap": ["N1/E2/tests/"]
     },
     "authors": [
         {
@@ -12,6 +12,6 @@
         }
     ],
     "require-dev": {
-        "phpunit/phpunit": "11.5.46"
+        "phpunit/phpunit": "^11.5.46"
     }
 }
